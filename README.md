@@ -29,5 +29,5 @@ Halaman Hapus adalah hapus.php
 <br> dengan meng-klik tombol "Delete" pada kolom Action maka data yang di pilih akan terhapus
 <br> Tampilan : 
 <br> <img src="capture/delete.JPG"> 
-<br> Masukan Data dan tambahkan
+<br> Data berhasil dihapus!
 
