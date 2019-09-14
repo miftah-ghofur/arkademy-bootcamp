@@ -10,5 +10,5 @@ menggunakan bahasa PHP . dijalankan di localhost
 
 Halaman utama adalah index.php
 Tampilan : 
-<img src="no6/logo arkademy.jpeg"> 
+<img src="No6Project/logo arkademy.jpeg"> 
 
